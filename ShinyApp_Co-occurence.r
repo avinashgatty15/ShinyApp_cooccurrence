@@ -8,7 +8,6 @@ library("shiny")
 library("udpipe")
 library("textcat")
 library("dplyr")
-library("shiny")
 library("stringr")
 
 
